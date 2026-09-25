@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.zb-kx.cn/sitemap.xml
